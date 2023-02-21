@@ -1,1 +1,4 @@
-<h1> Hello, Hi, How are you? this so soo cool! Just something different so I can see it in real time </h1>
+<h1> Hello, Welcome to Simple DevOps Project by Ibby !!   </h1>
+<h2> Data Service Group is your learning partner </h2>
+<h2> Glad to see you here, for my baby</h2>
+<h1> Good job Capt.Ibby on learning Devops</h1>
