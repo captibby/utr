@@ -25,10 +25,10 @@
     </style>
 </head>
 <body>
-    <h1>Hello, Welcome to Simple TechOps Project by <span class="highlight">Ibrahim</span> !!</h1>
+    <h1>Hello, Welcome to Simple TechOps Project by <span class="highlight">Ibby</span> !!</h1>
     <h2>TechOps Academy is your learning partner</h2>
     <h2>Glad to see you here</h2>
-    <h1>Good job <span class="highlight">Capt.Ibby</span> on learning TechOps</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Airbus_A380_blue_sky.svg/1280px-Airbus_A380_blue_sky.svg.png" alt="Plane Image" class="image">
+    <h1>If you got this far Good job <span class="highlight">Proud</span> on learning TechOps</h1>
+    <img src="https://source.unsplash.com/300x300/?plane" alt="Plane Image" class="image">
 </body>
 </html>
