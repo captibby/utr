@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background: linear-gradient(to right, #008CBA, #e0f7fa);
             text-align: center;
             padding-top: 50px;
         }
@@ -15,21 +15,20 @@
             color: #333;
         }
         .highlight {
-            color: #008CBA;
+            color: #ff4081;
         }
         .image {
             margin-top: 20px;
-            width: 300px;  /* Set width to 300 pixels */
-            height: auto;  /* Maintain aspect ratio */
+            width: 300px;
+            height: auto;
         }
     </style>
 </head>
 <body>
-    <h1>Hello, Welcome to Simple TechOps Project by <span class="highlight">Ibby</span> !!</h1>
+    <h1>Hello, Welcome to Simple TechOps Project by <span class="highlight">Ibrahim</span> !!</h1>
     <h2>TechOps Academy is your learning partner</h2>
     <h2>Glad to see you here</h2>
     <h1>Good job <span class="highlight">Capt.Ibby</span> on learning TechOps</h1>
-    <h1>Good job <span class="highlight">Faruk</span> on learning TechOps</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Airbus_A380_blue_sky.svg/1280px-Airbus_A380_blue_sky.svg.png" alt="Plane Image" class="image">
 </body>
 </html>
