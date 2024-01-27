@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-for strictly business for TT
+for strictly business for Faky
