@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-for strictly business for Faky
+for strictly business
