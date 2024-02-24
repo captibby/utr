@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-for strictly business 1
+for strictly business
