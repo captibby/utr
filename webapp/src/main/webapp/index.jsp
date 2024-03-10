@@ -28,7 +28,7 @@
     </style>
 </head>
 <body>
-    <h1>Hello, Welcome to the Girly TechOps Project by <span class="highlight">Ibby & Massa</span> </h1>
+    <h1>Hello, Welcome to the Boss TechOps Project by <span class="highlight">Ibby & Massa</span> </h1>
     <h2>TechOps Academy is your fabulous learning partner</h2>
     <h2>Glad to see you here in style!</h2>
     <h1>If you got this far, fabulous job! We are <span class="highlight">PROUD</span> of you on your journey to learning DevOps with us</h1>
